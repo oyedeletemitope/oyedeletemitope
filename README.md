@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oyedeletemitope
-- 👀 I’m a webdeveloper and technical writer. I love to write about things I've  learned and experienced.
+- 👀 I’m a software developer and technical writer. I love to write about things I've  learned and experienced.
 - 🌱 love to challenge myself by taking on projects 
 - 📫  Reach me oyedeletemitope76@gmail.com
 
